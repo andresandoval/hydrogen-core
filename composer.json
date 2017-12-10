@@ -20,7 +20,7 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "Hydrogen\\Core\\Tests\\": "tests/"
+      "Hydrogen\\Core\\Tests\\": "tests/src"
     }
   }
 }
